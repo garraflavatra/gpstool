@@ -82,9 +82,7 @@
 
     <p>
       Star gpstool on
-      <a href="https://github.com/garraflavatra/gpstool" target="_blank" rel="noopener noreferrer">
-        GitHub
-      </a>
+      <a href="https://github.com/garraflavatra/gpstool" target="_blank" rel="noopener noreferrer">GitHub</a>!
     </p>
   </div>
 
